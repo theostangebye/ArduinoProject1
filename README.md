@@ -1,5 +1,5 @@
 #Welcome
-* Please take a moment to learn how to use GitHub.  Try making some files, and saving them, and syncing them back to the main branch.
-* we can see how this works for this project.  Git is a super useful thing to know in the industry.
+* Welcome to our github project page!
+* Take a moment to create a gitjub account if you don't have one, and let me know your username or the email you used to create it.  I will add you as a collaborator.
 
 You guys are studs.
